@@ -84,6 +84,7 @@ while(input("Do you want to play a game of Blackjack? Type 'y' or 'n':")=='y'):
       print("You went over. You lose 😭")
       start_flag=True
       break
+  break
 if(start_flag):
   exit
 else:
